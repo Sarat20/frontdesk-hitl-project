@@ -906,17 +906,9 @@ Demonstrates:
 
 This is a test project, but feedback welcome!
 
----
 
-## 📄 License
-
-MIT
-
----
 
 ## 👤 Author
 
 Built for Frontdesk Engineering Test Assignment
 
-**Time Invested:** ~12-15 hours
-**Completed:** All Phase 1 requirements + bonus features
