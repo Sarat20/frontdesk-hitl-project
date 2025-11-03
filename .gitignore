@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+*/node_modules/
+lerna-debug.log*
+
+# Environment variables (both frontend and backend)
+.env
+.env.local
+.env.production
+backend/.env
+frontend/.env
+frontend/.env.local
+*.local
+
+# Database files
+backend/data.json
+backend/firebase-key.json
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+*/dist/
+*/build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+*.sw?
+
+# Temporary files
+*.tmp
+.cache/
